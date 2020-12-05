@@ -8,15 +8,15 @@ circuit-breaker.server.port=8091
 
 
 #Logger configuration
-logging.login-service.file		=login-service.log
-logging.programmer-profile-service.file		=programmer-profile-service.log
-logging.search-service.file		=search-service.log
-logging.service-nlp-service.file		=service-nlp-service.log
-logging.asset-service-service.file		=asset-service-service.log
-logging.circuit-breaker-service.file		=circuit-breaker-service.log
-logging.filesize.max						=100MB
-logging.archivesize.max						=10GB
-logging.history.max							=60
-logging.dev.loglevel						=DEBUG
-logging.staging.loglevel					=INFO
-logging.production.loglevel					=INFO
+logging.login-service.file=login-service.log
+logging.programmer-profile-service.file=programmer-profile-service.log
+logging.search-service.file=search-service.log
+logging.service-nlp-service.file=service-nlp-service.log
+logging.asset-service-service.file=asset-service-service.log
+logging.circuit-breaker-service.file=circuit-breaker-service.log
+logging.filesize.max=100MB
+logging.archivesize.max=10GB
+logging.history.max=60
+logging.dev.loglevel=DEBUG
+logging.staging.loglevel=INFO
+logging.production.loglevel=INFO
